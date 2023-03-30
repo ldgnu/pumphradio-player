@@ -1,3 +1,3 @@
-# I.music
+# Player PumpRadio!
 
-Link: https://dudychmarian.github.io/I.music/
+Link: https://ldgnu.github.io/pumphradio-player/
